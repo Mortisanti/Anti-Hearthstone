@@ -55,7 +55,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/World of Warcraft: Mists of Pandaria-138x190.jpg" alt="World of Warcraft: Mists of Pandaria" title="World of Warcraft: Mists of Pandaria">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Guild Wars 2-138x190.jpg" alt="Guild Wars 2" title="Guild Wars 2">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Neverwinter-138x190.jpg" alt="Neverwinter" title="Neverwinter"><br>
-  <h3>
   <a href="https://www.twitch.tv/videos/38469346">on the fly Diablo 3 runs with fans</a><br>
   <a href="https://www.twitch.tv/videos/38469068">D3 gearless speedruns with fans and krippie</a><br>
   <a href="https://www.twitch.tv/videos/38468860">Kripp's Computer Building Marathon and Guide for D3 + MoP!</a><br>
@@ -766,7 +765,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <a href="https://www.twitch.tv/videos/36117326">TSM Kripp D3 ThornsLife | PunishCore With Rania! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
   <a href="https://www.twitch.tv/videos/36313319">Back At 9PM EST / 3AM CET! | PunishCore With Rania! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
   <a href="https://www.twitch.tv/videos/36512319">TSM Kripp D3 Crusader /w Rania | Hearthstone Tmrw! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
-  </h3>
   </center>
 </body>
 </html>
