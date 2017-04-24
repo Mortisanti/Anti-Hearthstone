@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <link rel="stylesheet" type="text/css" href="theme.css">
   -->
   <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png">
+  <link rel="icon" type="image/png" sizes ="16x16" href="http://i.imgur.com/uzYzoFE.png">
 </head>
 <body>
   <center>
