@@ -37,49 +37,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Anti-Hearthstone by Mortisanti</title>
-    <link rel="stylesheet" href="/Anti-Hearthstone/assets/css/style.css?v=f109d3826c79ea6cdf6ad757b7d12cf1212ffd5b">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="/Anti-Hearthstone/assets/js/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="/Anti-Hearthstone/assets/css/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png" />
-  </head>
-  <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/Mortisanti/Anti-Hearthstone">View On GitHub</a></li>
-          
-        </nav>
-      </div><!-- end header -->
-
-    <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>Anti-Hearthstone</h1>
-          <p>Kripparrian Anti-Hearthstone VODs</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/Mortisanti">Mortisanti</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-        </div>
 <html>
 <head>
   <!-- CSS excluded for now.
   <link rel="stylesheet" type="text/css" href="theme.css">
   -->
   <meta charset="UTF-8">
-  <link rel="icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png">
+  <link rel="shortcut icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png">
 </head>
 <body>
   <center>
