@@ -45,15 +45,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <meta charset="UTF-8">
   <link rel="icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png">
 </head>
-<body style="background-color:#bfbfbf;">
+<body>
   <center>
-  <img src="./nl_Kripp - Twitch_files/Diablo III-138x190.jpg" alt="Diablo III" title="Diablo III"> <img src="http://i.imgur.com/8urU6CM.png"> <img src="./nl_Kripp - Twitch_files/Diablo III- Reaper of Souls-138x190.jpg" alt="Diablo III: Reaper of Souls" title="Diablo III: Reaper Of Souls"><br>
-  <img src="./nl_Kripp - Twitch_files/Path of Exile-138x190.jpg" alt="Path of Exile" title="Path of Exile">
-  <img src="./nl_Kripp - Twitch_files/Final Fantasy XIV-138x190.jpg" alt="Final Fantasy XIV" title="Final Fantasy XIV">
-  <img src="./nl_Kripp - Twitch_files/World of Warcraft- Mists of Pandaria-138x190.jpg" alt="World of Warcraft: Mists of Pandaria" title="World of Warcraft: Mists of Pandaria">
-  <img src="./nl_Kripp - Twitch_files/Guild Wars 2-138x190.jpg" alt="Guild Wars 2" title="Guild Wars 2">
-  <img src="./nl_Kripp - Twitch_files/Neverwinter-138x190.jpg" alt="Neverwinter" title="Neverwinter"><br>
-  <h2>
+  <img src="./nl_Kripp - Twitch_files/Diablo III-138x190.jpg" alt="Diablo III" title="Diablo III"> <img src="http://i.imgur.com/8urU6CM.png"> <img src="https://www.twitch.tv/nl_kripp - Twitch_files/Diablo III- Reaper of Souls-138x190.jpg" alt="Diablo III: Reaper of Souls" title="Diablo III: Reaper Of Souls"><br>
+  <img src="https://www.twitch.tv/nl_kripp - Twitch_files/Path of Exile-138x190.jpg" alt="Path of Exile" title="Path of Exile">
+  <img src="https://www.twitch.tv/nl_kripp - Twitch_files/Final Fantasy XIV-138x190.jpg" alt="Final Fantasy XIV" title="Final Fantasy XIV">
+  <img src="https://www.twitch.tv/nl_kripp - Twitch_files/World of Warcraft- Mists of Pandaria-138x190.jpg" alt="World of Warcraft: Mists of Pandaria" title="World of Warcraft: Mists of Pandaria">
+  <img src="https://www.twitch.tv/nl_kripp - Twitch_files/Guild Wars 2-138x190.jpg" alt="Guild Wars 2" title="Guild Wars 2">
+  <img src="https://www.twitch.tv/nl_kripp - Twitch_files/Neverwinter-138x190.jpg" alt="Neverwinter" title="Neverwinter"><br>
+  <h3>
   <a href="https://www.twitch.tv/videos/38469346">on the fly Diablo 3 runs with fans</a><br>
   <a href="https://www.twitch.tv/videos/38469068">D3 gearless speedruns with fans and krippie</a><br>
   <a href="https://www.twitch.tv/videos/38468860">Kripp's Computer Building Marathon and Guide for D3 + MoP!</a><br>
@@ -764,7 +764,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <a href="https://www.twitch.tv/videos/36117326">TSM Kripp D3 ThornsLife | PunishCore With Rania! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
   <a href="https://www.twitch.tv/videos/36313319">Back At 9PM EST / 3AM CET! | PunishCore With Rania! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
   <a href="https://www.twitch.tv/videos/36512319">TSM Kripp D3 Crusader /w Rania | Hearthstone Tmrw! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
-  </h2>
+  </h3>
   </center>
 </body>
 </html>
