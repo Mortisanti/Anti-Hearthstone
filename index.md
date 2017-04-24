@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <link rel="stylesheet" type="text/css" href="theme.css">
   -->
   <meta charset="UTF-8">
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 <body>
   <center>
