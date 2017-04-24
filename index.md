@@ -39,11 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 <html>
 <head>
-  <!-- CSS excluded for now.
-  <link rel="stylesheet" type="text/css" href="theme.css">
-  -->
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
   <meta charset="UTF-8">
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 <body>
   <center>
