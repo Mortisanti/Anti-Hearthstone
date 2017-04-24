@@ -37,7 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
-<html>
 <head>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
   <meta charset="UTF-8">
@@ -764,4 +763,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <a href="https://www.twitch.tv/videos/36512319">TSM Kripp D3 Crusader /w Rania | Hearthstone Tmrw! | Kripp Shirts = http://www.designbyhumans.com/shop/Kripp/ (✿☯‿☯✿)(✿☯‿☯✿)</a><br>
   </center>
 </body>
-</html>
