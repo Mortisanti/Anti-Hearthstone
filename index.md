@@ -49,10 +49,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   <center>
   <img src="http://i.imgur.com/8urU6CM.png">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Diablo III-138x190.jpg" alt="Diablo III" title="Diablo III">
-  <img src="https://static-cdn.jtvnw.net/ttv-boxart/Diablo III- Reaper of Souls-138x190.jpg" alt="Diablo III: Reaper of Souls" title="Diablo III: Reaper Of Souls">
+  <img src="https://static-cdn.jtvnw.net/ttv-boxart/Diablo III: Reaper of Souls-138x190.jpg" alt="Diablo III: Reaper of Souls" title="Diablo III: Reaper Of Souls">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Path of Exile-138x190.jpg" alt="Path of Exile" title="Path of Exile">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Final Fantasy XIV-138x190.jpg" alt="Final Fantasy XIV" title="Final Fantasy XIV">
-  <img src="https://static-cdn.jtvnw.net/ttv-boxart/World of Warcraft- Mists of Pandaria-138x190.jpg" alt="World of Warcraft: Mists of Pandaria" title="World of Warcraft: Mists of Pandaria">
+  <img src="https://static-cdn.jtvnw.net/ttv-boxart/World of Warcraft: Mists of Pandaria-138x190.jpg" alt="World of Warcraft: Mists of Pandaria" title="World of Warcraft: Mists of Pandaria">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Guild Wars 2-138x190.jpg" alt="Guild Wars 2" title="Guild Wars 2">
   <img src="https://static-cdn.jtvnw.net/ttv-boxart/Neverwinter-138x190.jpg" alt="Neverwinter" title="Neverwinter"><br>
   <h3>
