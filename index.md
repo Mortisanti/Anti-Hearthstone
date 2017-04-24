@@ -37,7 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
-<!DOCTYPE html>
 <html>
 <head>
   <!-- CSS excluded for now.
@@ -45,11 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   -->
   <meta charset="UTF-8">
   <link rel="icon" type="image/png" href="http://i.imgur.com/uzYzoFE.png">
-<title>Kripparrian Anti-Hearthstone VODs</title>
 </head>
 <body style="background-color:#bfbfbf;">
   <center>
-  <h1>Kripparrian Anti-Hearthstone VODs</h1>
   <img src="./nl_Kripp - Twitch_files/Diablo III-138x190.jpg" alt="Diablo III" title="Diablo III"> <img src="http://i.imgur.com/8urU6CM.png"> <img src="./nl_Kripp - Twitch_files/Diablo III- Reaper of Souls-138x190.jpg" alt="Diablo III: Reaper of Souls" title="Diablo III: Reaper Of Souls"><br>
   <img src="./nl_Kripp - Twitch_files/Path of Exile-138x190.jpg" alt="Path of Exile" title="Path of Exile">
   <img src="./nl_Kripp - Twitch_files/Final Fantasy XIV-138x190.jpg" alt="Final Fantasy XIV" title="Final Fantasy XIV">
