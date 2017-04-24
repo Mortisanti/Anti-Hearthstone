@@ -39,7 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 <head>
   <link rel="shortcut icon" type="image/png" href="favicon.png">
-  <meta charset="UTF-8">
 </head>
 <body>
   <center>
