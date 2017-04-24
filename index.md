@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 -->
 <html>
 <head>
-<link rel="shortcut icon" href="/favicon.ico?">
+<link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
   <center>
